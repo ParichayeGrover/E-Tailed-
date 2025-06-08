@@ -67,7 +67,35 @@ o	Display 3 informative cards:
 
  - 4. ### Optional Features : 
      Also Implemented , like chart for showcasing progress using Rechart. 
+
+     I also added Edit button , which gives user access to edit the details and the graph being displayed on the dashboard. 
   
  - 5. ### Local Storage Usage: 
      The application will remain open on the dashboard with the updated or added user info until logout is triggered. 
      After logout local storage will be cleared. 
+
+ - 6. ### Screenshots: 
+       ### Step - 1 : 
+      ![Step -1](image-1.png)
+       
+       ### Step - 2 : 
+
+      ![step -2](image.png) 
+
+      ### Step - 3 : 
+
+       ![Step -3 (a)](image-2.png)
+
+       ![Step -3 (b)](image-3.png)
+
+      ### Dashboard :
+
+       ![Dashboard](image-4.png) 
+
+       ![Dashboard](image-5.png)
+
+        ### Edit Functionality (Extra) : 
+
+        User can edit details and graph on dashboard. 
+
+        ![Edit](image-6.png)
