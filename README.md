@@ -42,4 +42,32 @@
 ### Notes
 - Make sure you have Node.js and npm installed.
 - For favicon/logo, place your image in `src/assets/Etailed.png`.
-- To change the theme (dark/light), use the toggle button on the dashboard.
+
+
+### How it works ? 
+- 1.	Multi-step Onboarding Wizard (3 Steps)
+o	Step 1: Personal Info (Name, Email)
+o	Step 2: Business Info (Company Name, Industry, Size)
+o	Step 3: Preferences (Theme, Default Dashboard Layout)
+
+- 2. ### Features:
+	Progress bar on top
+	“Next”, “Back”, and “Submit” buttons
+	Input validation for required fields
+	Validation messages for invalid inputs
+	“Submit” button disabled until all fields are valid
+
+- 3. ### Auto-redirect to dashboard after onboarding
+o	Show user info from onboarding
+o	Display 3 informative cards:
+	 Team Members Count
+	 Active Projects
+	 Notifications
+ 
+
+ - 4. ### Optional Features : 
+     Also Implemented , like chart for showcasing progress using Rechart. 
+  
+ - 5. ### Local Storage Usage: 
+     The application will remain open on the dashboard with the updated or added user info until logout is triggered. 
+     After logout local storage will be cleared. 
